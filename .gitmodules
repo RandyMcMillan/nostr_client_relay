@@ -4,3 +4,6 @@
 	branch = boost-1.82.0
 	ignore = dirty
 
+[submodule "ext/wxWidgets-3.2.2.1"]
+	path = ext/wxWidgets-3.2.2.1
+	url = git@github.com:gnostr-org/wxWidgets.git
